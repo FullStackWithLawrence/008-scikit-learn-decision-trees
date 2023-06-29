@@ -5,7 +5,7 @@
 
     date:           jun-2023
 
-    usage:          minimalist implementation of Logistic Regression model.
+    usage:          minimalist implementation of Decision Tree model.
 """
 import os
 import warnings
@@ -105,7 +105,6 @@ def decision_tree():
     print("Decision Tree")
     x_train, x_test, y_train, y_test = prepare_data()
 
-    # Linear Kernel or linear decision boundary
     print("- training")
     model_dt = DecisionTreeClassifier(class_weight={0: 0.17, 1: 0.83}, random_state=1)
     model_dt.fit(x_train, y_train)
@@ -119,6 +118,7 @@ def decision_tree():
     metrics_score(y_test, pred_test_dt)
 
     # Metrics to evaluate the model
+    # ---------------------------------
 
     # Choose the type of classifier.
     estimator = DecisionTreeClassifier(class_weight={0: 0.17, 1: 0.83}, random_state=1)
