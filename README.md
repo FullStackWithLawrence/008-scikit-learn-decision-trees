@@ -25,12 +25,12 @@ Note that freely downloadable [VS Code](https://code.visualstudio.com/) natively
 The included Python module scaffolds the implemntation of a model that would ostensibly be used in a production setting. Be aware that accordingly, this module excludes all code for analysis, QC and corrections to the included data set.
 
 ```console
-foo@bar:~$ git clone https://github.com/FullStackWithLawrence/006-scikit-learn-logistic-regression.git
-foo@bar:~$ cd 006-scikit-learn-logistic-regression
+foo@bar:~$ git clone https://github.com/FullStackWithLawrence/008-scikit-learn-decision-trees.git
+foo@bar:~$ cd 008-scikit-learn-decision-trees
 foo@bar:~$ pip install -r requirements.txt
 
 # run the  code from the command line
-foo@bar:~$ python logistic-regression.py
+foo@bar:~$ python decision-tree.py
 ```
 
 ### If You're New to Jupyter Notebooks
