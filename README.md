@@ -1,5 +1,5 @@
-[![Source code](https://img.shields.io/static/v1?logo=github&label=Git&style=flat-square&color=brightgreen&message=Source%20code)](https://github.com/FullStackWithLawrence/006-scikit-learn-logistic-regression)
-[![Documentation](https://img.shields.io/static/v1?&label=Documentation&style=flat-square&color=000000&message=Documentation)](https://github.com/FullStackWithLawrence/006-scikit-learn-logistic-regression)
+[![Source code](https://img.shields.io/static/v1?logo=github&label=Git&style=flat-square&color=brightgreen&message=Source%20code)](https://github.com/FullStackWithLawrence/008-scikit-learn-decision-trees)
+[![Documentation](https://img.shields.io/static/v1?&label=Documentation&style=flat-square&color=000000&message=Documentation)](https://github.com/FullStackWithLawrence/008-scikit-learn-decision-trees)
 [![AGPL License](https://img.shields.io/github/license/overhangio/tutor.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
 
@@ -37,7 +37,7 @@ foo@bar:~$ python decision-tree.py
 
 There's an easy way to get Jupyter Notebooks working immediately, by downloading an application named [Anaconda Navigator](https://www.anaconda.com/) that is freely available for both Windows and Mac.
 
-![Anaconda](https://github.com/FullStackWithLawrence/006-scikit-learn-logistic-regression/blob/main/doc/anaconda.png)
+![Anaconda](https://github.com/FullStackWithLawrence/008-scikit-learn-decision-trees/blob/main/doc/anaconda.png)
 
 ### If You're New to Python
 
@@ -99,4 +99,4 @@ foo@bar:~$
 foo@bar:~$ pre-commit
 ```
 
-![pre-commit output](https://github.com/FullStackWithLawrence/006-scikit-learn-logistic-regression/blob/main/doc/pre-commit.png)
+![pre-commit output](https://github.com/FullStackWithLawrence/008-scikit-learn-decision-trees/blob/main/doc/pre-commit.png)
